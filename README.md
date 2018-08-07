@@ -1,2 +1,1 @@
-# IBKillerDev.github.io
-Website for IBKiller
+# Website for IBKiller
